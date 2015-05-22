@@ -1,4 +1,11 @@
 [DesignatorManager]
+LogicalDesignator0=Y1
+LogicalPartID0=1
+DocumentName0=MCU_USB_Interface.SchDoc
+ChannelName0=U_MCU_USB_Interface
+UniqueID0=\BNVUMXKQ\XYDRCQBK
+PhysicalDesignator0=X2
+PhysicalDesignatorLocked0=0
 
 [SheetNumberManager]
 SheetNumberOrder=Display Order
