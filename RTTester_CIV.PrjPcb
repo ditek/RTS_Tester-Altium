@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for RTTester_CIV
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -512,55 +512,97 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document29]
+DocumentPath=RTTester.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FSUMTIXB
+
+[Document30]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RTTester_CIV\Design Rule Check - RTTester.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.DRR
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.EXTREP
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.GBO
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.GBS
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.GKO
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.GTL
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.GTO
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.GTS
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.LDP
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.REP
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for RTTester_CIV\RTTester.RUL
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for RTTester_CIV\RTTester.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Project Outputs for RTTester_CIV\RTTester.TXT
 DItemRevisionGUID=
 
@@ -577,6 +619,9 @@ CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
+
+[Generic_EDE]
+OutputDir=Project Outputs for RTTester_CIV
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -700,6 +745,8 @@ OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Record=Pcb3DVideoRenderer|ShowFloorShadow=True|ViewConfigType=.config_3d|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20Blue%20Configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3TRUE\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\38553110\2CFG3D.BOARDCORECOLOR\313761015\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\37026967\2CFG3D.BOTSOLDERMASKCOLOR\37026967\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.890000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.860000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\31.000000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000|CurrentPCB3DVideoID=0
 OutputType11=PCB Print
 OutputName11=PCB Prints
 OutputDocumentPath11=
@@ -864,6 +911,8 @@ OutputName2=Simple BOM
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType3=SinglePinNetReporter
 OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
@@ -880,7 +929,7 @@ Configuration4_Item1=CaptionAsName
 Configuration4_Name2=Filter
 Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration4_Name3=General
-Configuration4_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=950|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=950|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration4_Name4=GroupOrder
 Configuration4_Item4=Comment=True|Footprint=True
 Configuration4_Name5=OutputConfigurationParameter1
